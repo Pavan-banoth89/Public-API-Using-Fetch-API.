@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Pavan",
+    "email": "pavan@example.com",
+    "phone": "9876543210",
+    "city": "Hyderabad",
+    "company": "TechNova Pvt Ltd"
+  },
+  {
+    "name": "Sathwik",
+    "email": "sathwik@example.com",
+    "phone": "9876501234",
+    "city": "Bangalore",
+    "company": "Innovatech Solutions"
+  },
+  {
+    "name": "Ramesh",
+    "email": "ramesh@example.com",
+    "phone": "9998877665",
+    "city": "Chennai",
+    "company": "CodeMatrix Systems"
+  },
+  {
+    "name": "Venkatesh",
+    "email": "venkatesh@example.com",
+    "phone": "9123456780",
+    "city": "Mumbai",
+    "company": "FutureWave Technologies"
+  },
+  {
+    "name": "Manoj",
+    "email": "manoj@example.com",
+    "phone": "9001234567",
+    "city": "Pune",
+    "company": "BrightEdge Analytics"
+  }
+]
